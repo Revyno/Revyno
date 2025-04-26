@@ -8,15 +8,7 @@
 - 📫 How to reach me **reveliowalker22@gmail.com**
 - <img src="https://raw.githubusercontent.com/Revyno/Revyno/output/snake.svg" alt="Snake animation" />
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Revyno/Revyno/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Revyno/Revyno/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Revyno/Revyno/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
