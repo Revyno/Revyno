@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revellio Christopel Oktufovian Lumbaa</h1>
-<h3 align="center">A passionate full stack developer and android developer from</h3>
+<h3 align="center">A passionate full stack developer and android developer from Institut Teknologi Adhi Tama Surabaya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revyno&label=Profile%20views&color=0e75b6&style=flat" alt="revyno" /> </p>
 
