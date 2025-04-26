@@ -4,9 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revyno&label=Profile%20views&color=0e75b6&style=flat" alt="revyno" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revyno" alt="revyno" /></a> </p>
+<img src="https://raw.githubusercontent.com/Revyno/Revyno/output/snake.svg" alt="Snake animation" />
+
+
 
 - 📫 How to reach me **reveliowalker22@gmail.com**
-- <img src="https://raw.githubusercontent.com/Revyno/Revyno/output/snake.svg" alt="Snake animation" />
+
 
 
 
