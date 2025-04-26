@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Revellio Christopel Oktufovian Lumbaa and I'm a Back End developer from Institut teknologi Adhi Tama Surabaya</h2>
+<h2 align="left">Hi 👋! My name is Revellio Christopel Oktufovian Lumbaa and I'm a Full Stack Developer And Androi Developer from Institut teknologi Adhi Tama Surabaya</h2>
 
 ###
 
