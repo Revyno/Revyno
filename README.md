@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Revellio Christopel Oktufovian Lumbaa/h2>
+<h2 align="left">Hi 👋! My name is Revellio Christopel Oktufovian Lumbaa</h2>
 
 ###
 
