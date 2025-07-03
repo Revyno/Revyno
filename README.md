@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Revellio Christopel Oktufovian Lumbaa</h2>
+<h2 align="left">Hi 👋! My name is Revellio Christopel Oktufovian Lumbaa,Im intersted with Full Stack Developer,Web3 Developer and Mobile Developer </h2>
 
 ###
 
