@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revyno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### 👨‍💻 About me
+###  About me
 👨‍💻 I am an Informatics Engineering student at **Institut Teknologi Adhi Tama Surabaya (ITATS)** with a strong interest in **Full Stack Development**, **Web3 Development**, and **Mobile Application Development**.
 
 🚀 I have hands-on experience in building web and software projects using modern technologies such as **Laravel**, **React**, **TypeScript**, and **JavaScript**, focusing on creating efficient, scalable, and user-friendly applications.
