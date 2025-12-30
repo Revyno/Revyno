@@ -12,7 +12,7 @@
 
 🚀 I have hands-on experience in building web and software projects using modern technologies such as **Laravel**, **React**, **TypeScript**, and **JavaScript**, focusing on creating efficient, scalable, and user-friendly applications.
 
-🎓 I was also a **student at Bimbing ID**, where I strengthened my problem-solving skills, programming fundamentals, and real-world project experience through structured learning and mentorship.
+🎓 I was also a **student at dibimbing.id**, where I strengthened my problem-solving skills, programming fundamentals, and real-world project experience through structured learning and mentorship.
 
 💡 Passionate about continuous learning, I enjoy exploring new technologies, improving my coding skills, and working on innovative projects that solve real-world problems.
 
