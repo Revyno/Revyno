@@ -22,8 +22,8 @@
 
 - 🎓 Informatics Engineering student at **Institut Teknologi Adhi Tama Surabaya (ITATS)**
 - 💻 Focused on **Full Stack Development**, **Web3 Development**, and **AI Engineering**
-- 🚀 Hands-on experience building web & software projects with **Laravel**, **React**, **TypeScript**, and **JavaScript** — aiming for efficient, scalable, and user-friendly apps
-- 🧠 Alumnus of **dibimbing.id**, where I sharpened my problem-solving skills, programming fundamentals, and real-world project experience through structured mentorship
+- 🚀 Hands-on experience building web & software projects with **Laravel**, **React**, **TypeScript**, and **JavaScript**  for efficient, scalable, and user-friendly apps
+- 🧠 Alumni of **dibimbing.id**, where I sharpened my problem-solving skills, programming fundamentals, and real-world project experience through structured mentorship
 - 🌱 Always exploring new technologies and building things that solve real-world problems
 
 ###
