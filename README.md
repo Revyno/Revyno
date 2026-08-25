@@ -1,70 +1,65 @@
-<h2 align="left">Hi 👋! My name is Revellio Christopel Oktufovian Lumbaa,Im intersted with Full Stack Developer,Web3 Developer and Mobile Developer </h2>
+<h1 align="center">Hi 👋, I'm Revellio Christopel Oktufovian Lumba</h1>
+<h3 align="center">Full Stack Developer · Web3 Developer · AI Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web3+Enthusiast;AI+Engineer;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Revyno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revyno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Revyno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revyno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###  About me
-👨‍💻 I am an Informatics Engineering student at **Institut Teknologi Adhi Tama Surabaya (ITATS)** with a strong interest in **Full Stack Development**, **Web3 Development**,  **Ai Enginer**.
-
-🚀 I have hands-on experience in building web and software projects using modern technologies such as **Laravel**, **React**, **TypeScript**, and **JavaScript**, focusing on creating efficient, scalable, and user-friendly applications.
-
-🎓 I was also a **student at dibimbing.id**, where I strengthened my problem-solving skills, programming fundamentals, and real-world project experience through structured learning and mentorship.
-
-💡 Passionate about continuous learning, I enjoy exploring new technologies, improving my coding skills, and working on innovative projects that solve real-world problems.
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
-
-###
 
 <div align="center">
-  <img height="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQweXZmNmRwbzAyZXhsOHZ0eXlhY3A5ZW95ZXY0cng3amVwZDY4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/frSfC5NcmyF7q/giphy.gif"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revyno&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 👨‍💻 About Me
+
+- 🎓 Informatics Engineering student at **Institut Teknologi Adhi Tama Surabaya (ITATS)**
+- 💻 Focused on **Full Stack Development**, **Web3 Development**, and **AI Engineering**
+- 🚀 Hands-on experience building web & software projects with **Laravel**, **React**, **TypeScript**, and **JavaScript** — aiming for efficient, scalable, and user-friendly apps
+- 🧠 Alumnus of **dibimbing.id**, where I sharpened my problem-solving skills, programming fundamentals, and real-world project experience through structured mentorship
+- 🌱 Always exploring new technologies and building things that solve real-world problems
+
+###
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,javascript,typescript,react,nextjs,laravel,mysql,postgres,express,linux&theme=dark" alt="skills" />
+  </a>
+</p>
+
+###
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
+  </a>
+  <a href="https://twitch.tv/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch" />
+  </a>
+  <a href="https://discord.com/users/YOUR_ID" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
+  </a>
+  <a href="mailto:reveliowalker22@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
+  </a>
+</p>
 
 ###
 
