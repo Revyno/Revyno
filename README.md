@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web3+Enthusiast;AI+Engineer;Always+learning+new+things" alt="Typing SVG" />
 </p>
+<div align="center">
+  <img height="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQweXZmNmRwbzAyZXhsOHZ0eXlhY3A5ZW95ZXY0cng3amVwZDY4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/frSfC5NcmyF7q/giphy.gif"  />
+</div>
 
 ###
 
