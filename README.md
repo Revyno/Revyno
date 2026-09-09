@@ -30,9 +30,6 @@
   <img src="https://trophy.ryglcloud.net/?username=Revyno&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="trophies" />
 </div>
 
-<div align="center">
-  <img height="280" src="https://github-readme-activity-graph.vercel.app/graph?username=Revyno&theme=dracula&radius=10&hide_border=true" alt="activity graph" />
-</div>
 
 ###
 
