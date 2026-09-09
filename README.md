@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Revellio Christopel Oktufovian Lumba</h1>
-<h3 align="center">Full Stack Developer · Web3 Developer · AI Engineer</h3>
+<h3 align="center">Full Stack Developer · Web3 Developer · AI Engineer · Back End Developer · Front-End Developer · Software Enginer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web3+Enthusiast;AI+Engineer;Always+learning+new+things" alt="Typing SVG" />
