@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,javascript,nodejs,typescript,react,vuejs,threejs,nextjs,nuxtjs,laravel,mysql,supabase,postgres,express,mongodb,firebase,nginx,linux,ubuntu,docker,cloudflare,aws,postman,godot,git,githubactions,babel,vitest&theme=dark&perline=11" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,javascript,nodejs,typescript,react,vuejs,threejs,nextjs,nuxtjs,laravel,mysql,supabase,postgres,express,mongodb,firebase,nginx,linux,ubuntu,docker,cloudflare,aws,redis,postman,godot,git,githubactions,babel,vitest&theme=dark&perline=11" alt="skills" />
   </a>
 </p>
 
